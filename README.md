@@ -117,16 +117,3 @@ Tujuan dari sistem ini adalah menyederhanakan proses pencatatan pembayaran, memi
 
 - **Github:** https://github.com/MuhamadFarhanRizki/UAS_PBO2_SIAP_SPP 
 - **Youtube:** https://youtu.be/lSSgJ-9rSnA
-
-
-
-
-
-
-
-
-
-
-
-
-## Struktur Tabel Aplikasi  
